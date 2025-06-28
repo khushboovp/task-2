@@ -61,3 +61,23 @@ Step 6: Test Alerts
 Simulate high CPU usage (e.g., by running a load script)
 Wait for 5 minutes to trigger the alarm
 You should receive an email/SMS alert from CloudWatch
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/c1319b15-f14b-4ca7-8181-46009f823d13)
+![Image](https://github.com/user-attachments/assets/980eac55-ee97-47a8-bd66-b153ee333d06)
+![Image](https://github.com/user-attachments/assets/b3347647-db91-410b-a5dc-3f61a44745b1)
+![Image](https://github.com/user-attachments/assets/ced95afb-2c41-4532-9b44-94672b8e6178)
+![Image](https://github.com/user-attachments/assets/7684f655-5e4d-4d58-b3df-4348f38a31aa)
+![Image](https://github.com/user-attachments/assets/ccebbda5-16db-453d-a0d7-c322a9ed6aff)
+![Image](https://github.com/user-attachments/assets/c1046158-f5a7-4481-9014-b08a1a922825)
+![Image](https://github.com/user-attachments/assets/8464a42d-fe1d-4da6-af0a-61fba9c92110)
+![Image](https://github.com/user-attachments/assets/32bea412-1d5d-4021-8e14-a4f352e35e93)
+![Image](https://github.com/user-attachments/assets/504cb674-782d-44de-a721-0ba240da3ea1)
+![Image](https://github.com/user-attachments/assets/1af7b4d2-1a19-4c23-bbe7-df593090d5a4)
+![Image](https://github.com/user-attachments/assets/db6b6a22-4d59-446f-8fcf-ec7e16108fa0)
+![Image](https://github.com/user-attachments/assets/6b0fe554-0b1f-4a9a-987e-eb72a634f770)
+![Image](https://github.com/user-attachments/assets/78dcdc8a-fef8-4ebe-9653-a2a2c5d48c64)
+![Image](https://github.com/user-attachments/assets/a6fb508e-4058-4687-bb69-9816a4c36385)
+![Image](https://github.com/user-attachments/assets/eeeced4e-f2f5-4dbc-8ee2-ab9a9164aedb)
+![Image](https://github.com/user-attachments/assets/26b18793-3cce-48ae-8f1e-157911a5debe)
