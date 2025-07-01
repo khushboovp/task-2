@@ -64,6 +64,7 @@ You should receive an email/SMS alert from CloudWatch
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/082d6fe0-5f33-4a7b-add1-90ae2ac73817)
 ![Image](https://github.com/user-attachments/assets/c1319b15-f14b-4ca7-8181-46009f823d13)
 ![Image](https://github.com/user-attachments/assets/980eac55-ee97-47a8-bd66-b153ee333d06)
 ![Image](https://github.com/user-attachments/assets/b3347647-db91-410b-a5dc-3f61a44745b1)
